@@ -1,0 +1,301 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/a0206b0/
+A_set	test.py	/^    generatedTask, A_set = taskArriveBurst(t, generatedTask, [None for _ in range(4)], para_test/;"	v
+D_0	aux/generate_map_seq.py	/^D_0, D_1 = RandomDMAP(4, aver_inter_arrival)$/;"	v
+D_1	aux/generate_map_seq.py	/^D_0, D_1 = RandomDMAP(4, aver_inter_arrival)$/;"	v
+Parameter	Parameter.py	/^class Parameter:$/;"	c
+Queue	Queue.py	/^class Queue:$/;"	c
+Queue	Queue_backup.py	/^class Queue:$/;"	c
+SimCoR	SimCoR.py	/^class SimCoR:$/;"	c
+SimFog1	SimFog1.py	/^class SimFog1:$/;"	c
+SimFog2	SimFog2.py	/^class SimFog2:$/;"	c
+SimNoP	SimNoP.py	/^class SimNoP:$/;"	c
+SimOPEN	SimOPEN.py	/^class SimOPEN:$/;"	c
+Simulation	SimFog1.py	/^class Simulation:$/;"	c
+Task	Task.py	/^class Task:$/;"	c
+V	vchange.py	/^V = []$/;"	v
+X	arrival_rate.py	/^X = np.arange(10)+1$/;"	v
+X	energy.py	/^X = np.arange(10)+1$/;"	v
+_OPEN_C	SimOPEN.py	/^    def _OPEN_C(self, mu, phi, tau):$/;"	m	class:SimOPEN
+__init__	Parameter.py	/^    def __init__(self):$/;"	m	class:Parameter
+__init__	Queue.py	/^    def __init__(self, index, delta, debug, sort = 0):$/;"	m	class:Queue
+__init__	Queue_backup.py	/^    def __init__(self, index, delta, debug, sort = 0):$/;"	m	class:Queue
+__init__	SimCoR.py	/^    def __init__(self, para):$/;"	m	class:SimCoR
+__init__	SimFog1.py	/^    def __init__(self, para):$/;"	m	class:SimFog1
+__init__	SimFog1.py	/^    def __init__(self, para):$/;"	m	class:Simulation
+__init__	SimFog2.py	/^    def __init__(self, para):$/;"	m	class:SimFog2
+__init__	SimNoP.py	/^    def __init__(self, para):$/;"	m	class:SimNoP
+__init__	SimOPEN.py	/^    def __init__(self, para):$/;"	m	class:SimOPEN
+__init__	Task.py	/^    def __init__(self, index, currentTime, size, totalCycle, arriveQueue):$/;"	m	class:Task
+_computePlaceHolder	SimCoR.py	/^    def _computePlaceHolder(self):$/;"	m	class:SimCoR
+_impactOfPara	script_fog2.py	/^def _impactOfPara(para, attr_name, value_list):$/;"	f
+_optThroughput	SimFog2.py	/^    def _optThroughput(self):$/;"	m	class:SimFog2
+_plotDiffV	script_fog2.py	/^def _plotDiffV(para, prefix = ''):$/;"	f
+_rountineForServedTask	Queue.py	/^    def _rountineForServedTask(self, task, timer):$/;"	m	class:Queue
+_rountineForServedTask	Queue_backup.py	/^    def _rountineForServedTask(self, task, timer):$/;"	m	class:Queue
+_runAllAlg	script_fog2.py	/^def _runAllAlg(para):$/;"	f
+_serve	Queue.py	/^    def _serve(self, serveCycle, timer): # this function only process current HOL task; it does /;"	m	class:Queue
+_serve	Queue_backup.py	/^    def _serve(self, serveCycle, timer): # this function only process current HOL task; it does /;"	m	class:Queue
+accept	Queue.py	/^    def accept(self, taskList):$/;"	m	class:Queue
+accept	Queue_backup.py	/^    def accept(self, taskList):$/;"	m	class:Queue
+addtodict2	auxiliary.py	/^def addtodict2(thedict, key_a, key_b, val):$/;"	f
+afDistOfBS	aux/compute_delta.py	/^afDistOfBS = [[0 for _ in range(iNumOfBS)] for _ in range(iNumOfBS)]$/;"	v
+algPerm	arrival_rate.py	/^algPerm = []$/;"	v
+algPerm	energy.py	/^algPerm = []$/;"	v
+arrive	SimCoR.py	/^    def arrive(self):$/;"	m	class:SimCoR
+arrive	SimFog1.py	/^    def arrive(self):$/;"	m	class:SimFog1
+arrive	SimFog1.py	/^    def arrive(self):$/;"	m	class:Simulation
+arrive	SimFog2.py	/^    def arrive(self):$/;"	m	class:SimFog2
+arrive	SimNoP.py	/^    def arrive(self):$/;"	m	class:SimNoP
+arrive	SimOPEN.py	/^    def arrive(self): # compute arrived tasks; maybe blocked;$/;"	m	class:SimOPEN
+arrive_rate	aux/generate_map_seq.py	/^arrive_rate = 3$/;"	v
+arrive_rate_coef	auxiliary.py	/^arrive_rate_coef = None$/;"	v
+arrive_rate_list	aux/generate_map_seq.py	/^arrive_rate_list = [0.25, 0.75, 1.0]$/;"	v
+arrive_seq	aux/generate_map_seq.py	/^arrive_seq = []$/;"	v
+arrive_seq	test.py	/^arrive_seq = []$/;"	v
+averResTime	arrival_rate.py	/^averResTime = []$/;"	v
+averResTime	energy.py	/^averResTime = []$/;"	v
+aver_inter_arrival	aux/generate_map_seq.py	/^aver_inter_arrival = 500$/;"	v
+averageArriveOfUser	Parameter.py	/^averageArriveOfUser = 0.25$/;"	v
+ax	v1 2.py	/^ax = plt.gca()$/;"	v
+ax	v1.py	/^ax = plt.gca()$/;"	v
+ax1	arrival_rate.py	/^fig, ax1 = plt.subplots()$/;"	v
+ax1	energy.py	/^fig, ax1 = plt.subplots()$/;"	v
+ax1	vchange.py	/^fig, ax1 = plt.subplots()$/;"	v
+ax2	arrival_rate.py	/^ax2 = ax1.twinx()$/;"	v
+ax2	energy.py	/^ax2 = ax1.twinx()$/;"	v
+ax2	v1 2.py	/^ax2 = plt.gca()$/;"	v
+ax2	vchange.py	/^ax2 = ax1.twinx()$/;"	v
+checkForLmax	Queue.py	/^    def checkForLmax(self, timer):$/;"	m	class:Queue
+checkForLmax	Queue_backup.py	/^    def checkForLmax(self, timer):$/;"	m	class:Queue
+decision	SimCoR.py	/^    def decision(self):$/;"	m	class:SimCoR
+decision	SimFog1.py	/^    def decision(self, availServeCycle = -1):$/;"	m	class:Simulation
+decision	SimFog2.py	/^    def decision(self):$/;"	m	class:SimFog2
+decision	SimNoP.py	/^    def decision(self):$/;"	m	class:SimNoP
+decision	SimOPEN.py	/^    def decision(self):$/;"	m	class:SimOPEN
+delta	Parameter.py	/^delta = [[0 for i in range(4)] for i in range(4)]$/;"	v
+delta	aux/compute_delta.py	/^delta = [[0 for _ in range(iNumOfBS)] for _ in range(iNumOfBS)]$/;"	v
+delta_new	aux/compute_delta.py	/^    delta_new = pickle.load(fread)$/;"	v
+dist	aux/compute_users_dist.py	/^dist = [0 for _ in range(iNumOfBS)]$/;"	v
+draw	script_fog1.py	/^def draw(xdata, ydata, data_label, xlabel, ylabel, savefig_name, mark_list, lc_list, ls_list, sa/;"	f
+draw	script_fog2.py	/^def draw(xdata, ydata, data_label, xlabel, ylabel, savefig_name, mark_list, lc_list, ls_list = N/;"	f
+draw_twinx	script_fog1.py	/^def draw_twinx(xdata, ydata, data_label, xlabel, ylabel, savefig_name, mark_list, lc_list, ls_li/;"	f
+draw_twinx	script_fog2.py	/^def draw_twinx(xdata, ydata, data_label, xlabel, ylabel, savefig_name, mark_list, lc_list, ls_li/;"	f
+draw_y	script_fog1.py	/^def draw_y(ydata, data_label, xlabel, ylabel, savefig_name, mark_list, lc_list, ls_list = None):$/;"	f
+draw_y	script_fog2.py	/^def draw_y(ydata, data_label, xlabel, ylabel, savefig_name, mark_list, lc_list, ls_list = None):$/;"	f
+drop	Queue.py	/^    def drop(self, taskList):$/;"	m	class:Queue
+drop	Queue_backup.py	/^    def drop(self, taskList):$/;"	m	class:Queue
+dropHOL	Queue.py	/^    def dropHOL(self):$/;"	m	class:Queue
+dropHOL	Queue_backup.py	/^    def dropHOL(self):$/;"	m	class:Queue
+f	v1 2.py	/^f = open('v100.txt', 'w')$/;"	v
+f	vchange.py	/^f = open('vchange.txt', 'w')$/;"	v
+fig	arrival_rate.py	/^fig, ax1 = plt.subplots()$/;"	v
+fig	energy.py	/^fig, ax1 = plt.subplots()$/;"	v
+fig	vchange.py	/^fig, ax1 = plt.subplots()$/;"	v
+func_g	SimOPEN.py	/^        func_g = lambda x: 0$/;"	f	member:SimOPEN._OPEN_C	file:
+generateArriveSeq	aux/generate_map_seq.py	/^def generateArriveSeq(arrive_rate_list, max_time):$/;"	f
+generateArriveSeq	auxiliary.py	/^def generateArriveSeq(max_time):$/;"	f
+generatedTask	test.py	/^    generatedTask, A_set = taskArriveBurst(t, generatedTask, [None for _ in range(4)], para_test/;"	v
+generatedTask	test.py	/^generatedTask = 0$/;"	v
+handles	v1 2.py	/^handles = [ph1] + l1 + [ph2] + l2$/;"	v
+i	Parameter.py	/^        i = 1$/;"	v
+i	vchange.py	/^i = 1$/;"	v
+iNumOfBS	aux/compute_delta.py	/^iNumOfBS = 0$/;"	v
+iNumOfBS	aux/compute_users_dist.py	/^iNumOfBS = 0$/;"	v
+iNumOfUser	aux/compute_users_dist.py	/^iNumOfUser = 0$/;"	v
+iTargetBSOfUser	aux/compute_users_dist.py	/^iTargetBSOfUser = [0 for _ in range(iNumOfUser)]$/;"	v
+iUserOfBS	Parameter.py	/^    iUserOfBS = pickle.load(fread)$/;"	v
+iUserOfBS	aux/compute_users_dist.py	/^iUserOfBS = [0 for _ in range(iNumOfBS)]$/;"	v
+index	aux/generate_map_seq.py	/^index = 0$/;"	v
+indexAfterTime	auxiliary.py	/^def indexAfterTime(time, queue):$/;"	f
+inter_seq	aux/generate_map_seq.py	/^inter_seq = SamplesFromDMAP(D_0, D_1, 3*arrive_rate*max_time)$/;"	v
+l1	arrival_rate.py	/^l1, = ax2.plot(X,optPerm, marker = 's', markerfacecolor = 'none', markersize = 5, lw = 1, c = "#/;"	v
+l1	energy.py	/^l1, = ax2.plot(X,optPerm, marker = 's', markerfacecolor = 'none', markersize = 5, lw = 1, c = "#/;"	v
+l1	v1 2.py	/^l1 = []$/;"	v
+l1	vchange.py	/^l1 = ax1.plot(V,statThroughput, marker = 's', markerfacecolor = 'none', markersize = 5, markever/;"	v
+l2	arrival_rate.py	/^l2, = ax2.plot(X,algPerm, marker = '^', markerfacecolor = 'none', markersize = 5, lw = 1, ls = '/;"	v
+l2	energy.py	/^l2, = ax2.plot(X,algPerm, marker = '^', markerfacecolor = 'none', markersize = 5, lw = 1, ls = '/;"	v
+l2	v1 2.py	/^l2 = []$/;"	v
+l2	vchange.py	/^l2 = ax2.plot(V,[20+(2*para['beta']*i*para['gfunc_deriv'][3](0)+2*para['A_max']+4*para['p'])\/pa/;"	v
+l3	arrival_rate.py	/^l3 = ax1.bar(X-0.15,worstResTime, width = 0.3, color = '#268BD2', edgecolor = 'k', hatch = "\/\//;"	v
+l3	energy.py	/^l3 = ax1.bar(X-0.15,worstResTime, width = 0.3, color = '#268BD2', edgecolor = 'k', hatch = "\/\//;"	v
+l3	vchange.py	/^l3 = ax2.plot(V,statWorstDelay, marker = 'x', markerfacecolor = 'none', markersize = 5, markever/;"	v
+l4	arrival_rate.py	/^l4 = ax1.bar(X+0.15,averResTime, width = 0.3, color = '#7C509D', edgecolor = 'k', hatch = "\\\\\\/;"	v
+l4	energy.py	/^l4 = ax1.bar(X+0.15,averResTime, width = 0.3, color = '#7C509D', edgecolor = 'k', hatch = "\\\\\\/;"	v
+l4	vchange.py	/^l4 = ax2.plot(V,statAverDelay, marker = '^', markerfacecolor = 'none', markersize = 5, markevery/;"	v
+lab	v1 2.py	/^    lab = "Fog node " + str(i+1)$/;"	v
+lab	v1.py	/^    lab = "Fog node " + str(i+1)$/;"	v
+lab1	v1 2.py	/^lab1 = [l.get_label() for l in l1]$/;"	v
+lab2	v1 2.py	/^lab2 = [l.get_label() for l in l2]$/;"	v
+labels	v1 2.py	/^labels = ["Time-average"] + lab1 + ["Worst-case"] + lab2$/;"	v
+labs	vchange.py	/^labs = [l.get_label() for l in lns]$/;"	v
+latitude	aux/compute_delta.py	/^latitude = []$/;"	v
+latitude_BS	aux/compute_users_dist.py	/^latitude_BS = []$/;"	v
+latitude_user	aux/compute_users_dist.py	/^latitude_user = []$/;"	v
+lc	v1 2.py	/^        lc = "#268BD2"$/;"	v
+lc	v1 2.py	/^        lc = "#6C71C4"$/;"	v
+lc	v1 2.py	/^        lc = "#859900"$/;"	v
+lc	v1 2.py	/^        lc = "#EA4614"$/;"	v
+lc	v1.py	/^        lc = "#268BD2"$/;"	v
+lc	v1.py	/^        lc = "#6C71C4"$/;"	v
+lc	v1.py	/^        lc = "#859900"$/;"	v
+lc	v1.py	/^        lc = "#EA4614"$/;"	v
+leg	v1 2.py	/^leg = ax2.legend(handles, labels, ncol=2)$/;"	v
+listDiff	auxiliary.py	/^def listDiff(li1, li2):$/;"	f
+listMaxDiff2D	auxiliary.py	/^def listMaxDiff2D(li1, li2):$/;"	f
+lns	vchange.py	/^lns = l1 + l2 + l3 + l4$/;"	v
+longitude	aux/compute_delta.py	/^longitude = []$/;"	v
+longitude_BS	aux/compute_users_dist.py	/^longitude_BS = []$/;"	v
+longitude_user	aux/compute_users_dist.py	/^longitude_user = []$/;"	v
+mark	v1 2.py	/^        mark = "^"$/;"	v
+mark	v1 2.py	/^        mark = "o"$/;"	v
+mark	v1 2.py	/^        mark = "s"$/;"	v
+mark	v1 2.py	/^        mark = "x"$/;"	v
+mark	v1.py	/^        mark = "^"$/;"	v
+mark	v1.py	/^        mark = "o"$/;"	v
+mark	v1.py	/^        mark = "s"$/;"	v
+mark	v1.py	/^        mark = "x"$/;"	v
+max_time	aux/generate_map_seq.py	/^max_time = 100$/;"	v
+max_time	aux/generate_map_seq.py	/^max_time = 50$/;"	v
+me	vchange.py	/^me = [0, 9, 11, 13, 15, 17, 19, 21, 23, 25, -1]$/;"	v
+near_bs	aux/compute_users_dist.py	/^    near_bs = [] # index of BSs that lies within 100 meters$/;"	v
+notInSet	auxiliary.py	/^def notInSet(task, queue):$/;"	f
+np	SimFog1.py	/^import numpy as np$/;"	I
+np	SimFog2.py	/^import numpy as np$/;"	I
+np	SimOPEN.py	/^import numpy as np$/;"	I
+np	arrival_rate.py	/^import numpy as np$/;"	I
+np	auxiliary.py	/^import numpy as np$/;"	I
+np	energy.py	/^import numpy as np$/;"	I
+np	v1.py	/^import numpy as np$/;"	I
+num_task	aux/generate_map_seq.py	/^    num_task = 0$/;"	v
+objfunc	SimFog1.py	/^            def objfunc(gamma, sign=1.0):$/;"	f	member:Simulation.decision	file:
+objfunc	SimFog1.py	/^        def objfunc(y, sign = 1.0):$/;"	f	member:Simulation.__init__	file:
+objfunc	SimFog2.py	/^            def objfunc(gamma, sign=1.0):$/;"	f	member:SimFog2.decision	file:
+objfunc	SimFog2.py	/^        def objfunc(y, sign = 1.0):$/;"	f	member:SimFog2._optThroughput	file:
+objfunc_deriv	SimFog1.py	/^            def objfunc_deriv(gamma, sign=1.0):$/;"	f	member:Simulation.decision	file:
+objfunc_deriv	SimFog1.py	/^        def objfunc_deriv(y, sign = 1.0):$/;"	f	member:Simulation.__init__	file:
+objfunc_deriv	SimFog2.py	/^            def objfunc_deriv(gamma, sign=1.0):$/;"	f	member:SimFog2.decision	file:
+objfunc_deriv	SimFog2.py	/^        def objfunc_deriv(y, sign = 1.0):$/;"	f	member:SimFog2._optThroughput	file:
+offload	Queue.py	/^    def offload(self, task):$/;"	m	class:Queue
+offloadByCycle	Queue.py	/^    def offloadByCycle(self, cycle):$/;"	m	class:Queue
+offloadByCycle	Queue_backup.py	/^    def offloadByCycle(self, cycle):$/;"	m	class:Queue
+offloadHOL	Queue.py	/^    def offloadHOL(self):$/;"	m	class:Queue
+offloadHOL	Queue_backup.py	/^    def offloadHOL(self):$/;"	m	class:Queue
+optPerm	arrival_rate.py	/^optPerm = []$/;"	v
+optPerm	energy.py	/^optPerm = []$/;"	v
+para	arrival_rate.py	/^para = {$/;"	v
+para	energy.py	/^para = {$/;"	v
+paraOPEN	Parameter.py	/^paraOPEN = Parameter()$/;"	v
+para_fog1	Parameter.py	/^para_fog1 = Parameter()$/;"	v
+para_test	Parameter.py	/^para_test = Parameter()$/;"	v
+para_v1	arrival_rate.py	/^para_v1 = para.copy()$/;"	v
+para_v1	energy.py	/^para_v1 = para.copy()$/;"	v
+para_v1	v1 2.py	/^para_v1 = para.copy()$/;"	v
+para_v1	v1.py	/^para_v1 = para.copy()$/;"	v
+ph1	v1 2.py	/^ph1 = ax2.plot([],marker="", ls="")[0]$/;"	v
+ph2	v1 2.py	/^ph2 = ax2.plot([],marker="", ls="")[0]$/;"	v
+pickFirstMTasks	auxiliary.py	/^def pickFirstMTasks(task_list, max_workload):$/;"	f
+pickTask	Queue.py	/^    def pickTask(self):$/;"	m	class:Queue
+pickTask	Queue_backup.py	/^    def pickTask(self): # TODO: should delete$/;"	m	class:Queue
+plotBursty	script_fog1.py	/^def plotBursty(para):$/;"	f
+plotBurstyNew	script_fog1.py	/^def plotBurstyNew(para):$/;"	f
+plotBusrty	script_fog2.py	/^def plotBusrty(para):$/;"	f
+plotDiffLoad	script_fog2.py	/^def plotDiffLoad(para):$/;"	f
+plotDiffV	script_fog1.py	/^def plotDiffV(para):$/;"	f
+plotDiffV	script_fog2.py	/^def plotDiffV(para):$/;"	f
+plotOtherPara	script_fog2.py	/^def plotOtherPara(para):$/;"	f
+plotRunTime	script_fog1.py	/^def plotRunTime(para):$/;"	f
+plotRunTime	script_fog2.py	/^def plotRunTime(para):$/;"	f
+plt	SimFog1.py	/^import matplotlib.pyplot as plt$/;"	I
+plt	SimFog2.py	/^import matplotlib.pyplot as plt$/;"	I
+plt	SimOPEN.py	/^import matplotlib.pyplot as plt$/;"	I
+plt	arrival_rate.py	/^import matplotlib.pyplot as plt$/;"	I
+plt	energy.py	/^import matplotlib.pyplot as plt$/;"	I
+plt	script_fog1.py	/^import matplotlib.pyplot as plt$/;"	I
+plt	script_fog2.py	/^import matplotlib.pyplot as plt$/;"	I
+plt	v1 2.py	/^import matplotlib.pyplot as plt$/;"	I
+plt	v1.py	/^import matplotlib.pyplot as plt$/;"	I
+plt	vchange.py	/^import matplotlib.pyplot as plt$/;"	I
+receive	Queue.py	/^    def receive(self, task):$/;"	m	class:Queue
+receive	Queue_backup.py	/^    def receive(self, task):$/;"	m	class:Queue
+receiveByTaskList	Queue.py	/^    def receiveByTaskList(self, taskList):$/;"	m	class:Queue
+receiveByTaskList	Queue_backup.py	/^    def receiveByTaskList(self, taskList):$/;"	m	class:Queue
+remain_time	aux/generate_map_seq.py	/^    remain_time = arrive_rate*aver_inter_arrival$/;"	v
+rounds	arrival_rate.py	/^rounds = 10$/;"	v
+rounds	energy.py	/^rounds = 10$/;"	v
+rounds	vchange.py	/^rounds = 1$/;"	v
+run	script_fog2.py	/^def run(sim_cls, para):$/;"	f
+save_data	script_fog1.py	/^def save_data(data, file_name):$/;"	f
+save_data	script_fog2.py	/^def save_data(data, file_name):$/;"	f
+serveByCycle	Queue.py	/^    def serveByCycle(self, totalCycle, timer):$/;"	m	class:Queue
+serveByCycle	Queue_backup.py	/^    def serveByCycle(self, totalCycle, timer):$/;"	m	class:Queue
+serveByTaskList	Queue.py	/^    def serveByTaskList(self, taskList, timer):$/;"	m	class:Queue
+serveByTaskList	Queue_backup.py	/^    def serveByTaskList(self, serveCycle, taskList, timer):$/;"	m	class:Queue
+serveByTaskNum	Queue.py	/^    def serveByTaskNum(self, num, timer):$/;"	m	class:Queue
+serveByTaskNum	Queue_backup.py	/^    def serveByTaskNum(self, num, timer):$/;"	m	class:Queue
+setHOL	Queue.py	/^    def setHOL(self, task):$/;"	m	class:Queue
+setHOL	Queue_backup.py	/^    def setHOL(self, task):$/;"	m	class:Queue
+show	Queue.py	/^    def show(self):$/;"	m	class:Queue
+show	Queue_backup.py	/^    def show(self):$/;"	m	class:Queue
+show	SimCoR.py	/^    def show(self):$/;"	m	class:SimCoR
+show	SimFog1.py	/^    def show(self):$/;"	m	class:SimFog1
+show	SimFog1.py	/^    def show(self):$/;"	m	class:Simulation
+show	SimFog2.py	/^    def show(self):$/;"	m	class:SimFog2
+show	SimNoP.py	/^    def show(self):$/;"	m	class:SimNoP
+show	SimOPEN.py	/^    def show(self):$/;"	m	class:SimOPEN
+show	Task.py	/^    def show(self):$/;"	m	class:Task
+sim	vchange.py	/^        sim = Simulation(0,para)$/;"	v
+sim_v1	arrival_rate.py	/^    sim_v1 = Simulation(0,para_v1,para_v1['maxslots'],para_v1['maxpackets'])$/;"	v
+sim_v1	energy.py	/^    sim_v1 = Simulation(0,para_v1,para_v1['maxslots'],para_v1['maxpackets'])$/;"	v
+sim_v1	v1 2.py	/^sim_v1 = Simulation(0,para_v1)$/;"	v
+sim_v1	v1.py	/^sim_v1 = Simulation(0,para_v1)$/;"	v
+sortQueue	Queue.py	/^    def sortQueue(self):$/;"	m	class:Queue
+sortQueue	Queue_backup.py	/^    def sortQueue(self):$/;"	m	class:Queue
+start	SimCoR.py	/^    def start(self):$/;"	m	class:SimCoR
+start	SimFog1.py	/^    def start(self):$/;"	m	class:SimFog1
+start	SimFog1.py	/^    def start(self, slots=-1): #slots specifies the duration of a single run, mainly for debug$/;"	m	class:Simulation
+start	SimFog2.py	/^    def start(self, slots=-1): #slots specifies the duration of a single run, mainly for debug$/;"	m	class:SimFog2
+start	SimNoP.py	/^    def start(self):$/;"	m	class:SimNoP
+start	SimOPEN.py	/^    def start(self):$/;"	m	class:SimOPEN
+statAverDelay	vchange.py	/^statAverDelay = []$/;"	v
+statThroughput	vchange.py	/^statThroughput = []$/;"	v
+statWorstDelay	vchange.py	/^statWorstDelay = [] # only for Q[0]$/;"	v
+statistics	Queue.py	/^    def statistics(self, currentTime):$/;"	m	class:Queue
+statistics	Queue_backup.py	/^    def statistics(self, currentTime):$/;"	m	class:Queue
+sumByCol	auxiliary.py	/^def sumByCol(matrix):$/;"	f
+sumCol	auxiliary.py	/^def sumCol(m, col):$/;"	f
+sumRow	auxiliary.py	/^def sumRow(m, row):$/;"	f
+takeArriveTime	auxiliary.py	/^def takeArriveTime(task):$/;"	f
+takeIndex	auxiliary.py	/^def takeIndex(task):$/;"	f
+taskArriveBurst	auxiliary.py	/^def taskArriveBurst(timer, generatedTask, Q, para):$/;"	f
+taskArrivePoisson	auxiliary.py	/^def taskArrivePoisson(timer, generatedTask, Q, para):$/;"	f
+temp	arrival_rate.py	/^    temp = 0$/;"	v
+temp	arrival_rate.py	/^temp = 0$/;"	v
+temp	energy.py	/^    temp = 0$/;"	v
+temp	energy.py	/^temp = 0$/;"	v
+temp	v1 2.py	/^    temp, = ax2.plot(range(len(sim_v1.Q[i].statAverDelay))[::100], sim_v1.Q[i].statAverDelay[::1/;"	v
+temp	v1 2.py	/^    temp, = ax2.plot(range(len(sim_v1.Q[i].statWorstDelay))[::100], sim_v1.Q[i].statWorstDelay[:/;"	v
+temp	vchange.py	/^        temp = 0$/;"	v
+temp2	arrival_rate.py	/^    temp2 = 0$/;"	v
+temp2	energy.py	/^    temp2 = 0$/;"	v
+temp2	vchange.py	/^        temp2 = 0$/;"	v
+tempAverDelay	vchange.py	/^    tempAverDelay = 0$/;"	v
+tempAverDelay	vchange.py	/^    tempAverDelay = tempAverDelay\/rounds$/;"	v
+tempThroughput	vchange.py	/^    tempThroughput = 0$/;"	v
+tempThroughput	vchange.py	/^    tempThroughput = tempThroughput\/rounds$/;"	v
+tempWorstDelay	vchange.py	/^    tempWorstDelay = 0$/;"	v
+tempWorstDelay	vchange.py	/^    tempWorstDelay = tempWorstDelay\/rounds$/;"	v
+test	aux/compute_users_dist.py	/^    test = pickle.load(fread)$/;"	v
+throughput	SimFog2.py	/^    def throughput(self):$/;"	m	class:SimFog2
+throughput	auxiliary.py	/^def throughput(self):$/;"	f
+totalWorkloadOfSet	auxiliary.py	/^def totalWorkloadOfSet(task_list): # total workload$/;"	f
+virtualDropHOL	Queue.py	/^    def virtualDropHOL(self):$/;"	m	class:Queue
+virtualDropHOL	Queue_backup.py	/^    def virtualDropHOL(self):$/;"	m	class:Queue
+workloadOfSet	auxiliary.py	/^def workloadOfSet(taskSet): # remain workload$/;"	f
+worstResTime	arrival_rate.py	/^worstResTime = []$/;"	v
+worstResTime	energy.py	/^worstResTime = []$/;"	v
